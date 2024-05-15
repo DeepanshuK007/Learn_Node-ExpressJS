@@ -1,0 +1,27 @@
+//? What is NodeJs?
+//* Environmeny to run JS outside Browser.
+//* Built on Chrome's V8 JS Engine. Everey browser has an engine, a tool that compiles our code to machine code. 
+
+//? Browser Vs Server (Node.js)
+//* While working in Node u have NO ACCESS to Browser APIs. With node we build server side apps.
+
+//* IN browser u use a bunch of cool things in Window object, not in Node.
+
+//* Interactive Apps that is it depends on the Browser it was built in, but in case of Node 'Server Side Apps' where irrespective of the environment u can run your project on any console and dont need to worry about environment setup.
+
+//* In Browsers there is no filesystem but in case of Node there is Filesystem. 
+
+//* In Browser we have Fragmentation but in case of Node we have versions.
+
+//* In Browsers we have ES6 Modules or they are optional, but in case of Node u have acces to modules by default(CommonJS).
+
+//* In case JS we have DOM, Browser to evaluate our code but in case of Node it is either REPL or CLI.
+//* REPL- Read Eval Print Loop. This is just for playing around, printing a var/ Hello World etc.
+//* To use a Repl just type 'node' in the Terminal.
+
+//? NPM Info
+//* NPM stands for Node Package Modules, which is an Open source lib which can be use dto get pakages which includes codes related to different purposes, we can also publish our own codes in here.
+
+//* A package consists of JS code.
+
+//* If u clone a project from github as it is not consisting of huge file such as node-modules then u have to use the command in the project 'npm install' which install and sets up those node modules folder.

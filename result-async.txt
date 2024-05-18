@@ -1,0 +1,2 @@
+Here is th eresult in an async way: Hello this is first text file used to learn FS Modules.
+, Hello this is secound text file

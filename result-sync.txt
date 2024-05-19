@@ -1,0 +1,2 @@
+Here is the result: Hello this is first text file used to learn FS Modules., Hello this is secound text fileHere is the result: Hello this is first text file used to learn FS Modules.
+, Hello this is secound text file
